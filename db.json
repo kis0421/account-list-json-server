@@ -27,7 +27,7 @@
         "age": 70,
         "job": "programmer",
         "email": "gold-bok@nate.com"
-      },      
+      },
       {
         "id": 5,
         "name": "john wolf",
@@ -35,5 +35,7 @@
         "job": "etc",
         "email": "john-s@gmail.com"
       }
-    ]
+    ],
+    "openTime": "9:30",
+    "closeTime": "16:30"
   }
