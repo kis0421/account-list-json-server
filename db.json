@@ -5,35 +5,35 @@
         "name": "김철수",
         "age": 45,
         "job": "doctor",
-        "emanil": "cholchol@naver.com"
+        "email": "cholchol@naver.com"
       },
       {
         "id": 2,
         "name": "김반스",
         "age": 23,
         "job": "actor",
-        "emanil": "bance@naver.com"
+        "email": "bance@naver.com"
       },
       {
         "id": 3,
         "name": "정명환",
         "age": 26,
         "job": "programmer",
-        "emanil": "jmh98@gmail.com"
+        "email": "jmh98@gmail.com"
       },
       {
         "id": 4,
         "name": "이금복",
         "age": 70,
         "job": "programmer",
-        "emanil": "gold-bok@nate.com"
+        "email": "gold-bok@nate.com"
       },      
       {
         "id": 5,
         "name": "john wolf",
         "age": 5,
         "job": "etc",
-        "emanil": "john-s@gmail.com"
+        "email": "john-s@gmail.com"
       }
     ]
   }
