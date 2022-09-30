@@ -36,6 +36,8 @@
         "email": "john-s@gmail.com"
       }
     ],
-    "openTime": "9:30",
-    "closeTime": "16:30"
+    "businessHours": {
+      "open": "9:30",
+      "close": "16:30"
+    }
   }
